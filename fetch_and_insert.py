@@ -6,7 +6,7 @@ conn = sqlite3.connect('real_data.db')
 cur = conn.cursor()
 
 # API endpoint and headers
-API_KEY = '3d1be771629545c8a30bdb267976dca4'
+API_KEY = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 PROPERTIES_URL = 'https://api.rentcast.io/v1/properties'
 LISTINGS_URL = 'https://api.rentcast.io/v1/listings/sale'
 headers = {

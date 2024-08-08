@@ -1,11 +1,11 @@
-Get API key from rentcast.io
+1. Get API key from rentcast.io
 
-Insert key into fetch_and_insert.py
+2. Insert key into fetch_and_insert.py
 
-Run create_table.py to create a SQL table
+3. Run create_table.py to create a SQL table
 
-Run fetch_and_insert.py
+4. Run fetch_and_insert.py
 
-Run export.py to output to CVS
+5. Run export.py to output to CVS
 
-Repeat as necessary to update data
+6. Repeat as necessary to update data
